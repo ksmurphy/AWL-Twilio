@@ -2,8 +2,6 @@
 require 'sinatra'
 require 'twilio-ruby'
 
-#new Line
-
 ### TO DO ###
 ## should be able to use * and #, recognized by gather
 ## Manage time-outs
