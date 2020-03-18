@@ -1,4 +1,4 @@
-# Get twilio-ruby from twilio.com/docs/ruby/install
+### Get twilio-ruby from twilio.com/docs/ruby/install
 require 'sinatra'
 require 'twilio-ruby'
 
